@@ -1,0 +1,25 @@
+﻿  Programming_Exercise_91918.cpp
+c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(25): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+  c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(25): note: this argument is used by a conversion specifier
+c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(25): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'std::string'
+  c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(25): note: this argument is used as a buffer size
+c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(25): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(25): note: placeholders and their parameters expect 4 variadic arguments, but 2 were provided
+  c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(25): note: the missing variadic argument 3 is required by format string '%s'
+  c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(25): note: this argument is used by a conversion specifier
+c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(27): warning C4477: 'scanf_s' : format string '%lf' requires an argument of type 'double *', but variadic argument 1 has type 'double'
+c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(27): warning C4477: 'scanf_s' : format string '%lf' requires an argument of type 'double *', but variadic argument 2 has type 'double'
+c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(27): warning C4477: 'scanf_s' : format string '%lf' requires an argument of type 'double *', but variadic argument 3 has type 'double'
+c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(29): warning C4477: 'scanf_s' : format string '%lf' requires an argument of type 'double *', but variadic argument 1 has type 'double'
+c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(29): warning C4477: 'scanf_s' : format string '%lf' requires an argument of type 'double *', but variadic argument 2 has type 'double'
+c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(29): warning C4477: 'scanf_s' : format string '%lf' requires an argument of type 'double *', but variadic argument 3 has type 'double'
+c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(31): warning C4477: 'scanf_s' : format string '%lf' requires an argument of type 'double *', but variadic argument 1 has type 'double'
+c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(36): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(36): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'std::string'
+c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(27): error C4700: uninitialized local variable 'test3' used
+c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(27): error C4700: uninitialized local variable 'test2' used
+c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(27): error C4700: uninitialized local variable 'test1' used
+c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(29): error C4700: uninitialized local variable 'assignment3' used
+c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(29): error C4700: uninitialized local variable 'assignment2' used
+c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(29): error C4700: uninitialized local variable 'assignment1' used
+c:\users\mason\source\repos\programming_exercise_91918\programming_exercise_91918\programming_exercise_91918.cpp(31): error C4700: uninitialized local variable 'finalExam' used
