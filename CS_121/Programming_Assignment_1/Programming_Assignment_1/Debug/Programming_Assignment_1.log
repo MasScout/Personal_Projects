@@ -1,4 +1,2 @@
 ﻿  Programming_Assignment_1.cpp
-c:\users\mason\source\repos\programming_assignment_1\programming_assignment_1\programming_assignment_1.cpp(19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\mason\source\repos\programming_assignment_1\programming_assignment_1\programming_assignment_1.cpp(22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  Programming_Assignment_1.vcxproj -> C:\Users\Mason\source\repos\Programming_Assignment_1\Debug\Programming_Assignment_1.exe
+  Programming_Assignment_1.vcxproj -> C:\Users\Mason\Documents\GitHub\Personal_Projects\CS_121\Programming_Assignment_1\Debug\Programming_Assignment_1.exe
