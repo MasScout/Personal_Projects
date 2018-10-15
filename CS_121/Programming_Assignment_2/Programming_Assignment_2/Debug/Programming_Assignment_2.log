@@ -1,0 +1,5 @@
+﻿  Programming_Assignment_2.cpp
+c:\users\mason\documents\github\personal_projects\cs_121\programming_assignment_2\programming_assignment_2\programming_assignment_2.cpp(20): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\mason\documents\github\personal_projects\cs_121\programming_assignment_2\programming_assignment_2\programming_assignment_2.cpp(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\mason\documents\github\personal_projects\cs_121\programming_assignment_2\programming_assignment_2\programming_assignment_2.cpp(58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Programming_Assignment_2.vcxproj -> C:\Users\Mason\Documents\GitHub\Personal_Projects\CS_121\Programming_Assignment_2\Debug\Programming_Assignment_2.exe
