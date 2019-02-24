@@ -1,4 +1,8 @@
 ﻿  Project_4_Testing.cpp
-c:\users\mason\documents\github\personal_projects\cs_121\project_4_testing\project_4_testing\project_4_testing.cpp(217): warning C4551: function call missing argument list
-c:\users\mason\documents\github\personal_projects\cs_121\project_4_testing\project_4_testing\project_4_testing.cpp(379): warning C4101: 'rooms': unreferenced local variable
+c:\users\mason\documents\github\personal_projects\cs_121\project_4_testing\project_4_testing\project_4_testing.cpp(218): warning C4551: function call missing argument list
+c:\users\mason\documents\github\personal_projects\cs_121\project_4_testing\project_4_testing\project_4_testing.cpp(375): warning C4101: 'rooms': unreferenced local variable
+c:\users\mason\documents\github\personal_projects\cs_121\project_4_testing\project_4_testing\project_4_testing.cpp(641): warning C4305: 'return': truncation from 'int' to 'bool'
+c:\users\mason\documents\github\personal_projects\cs_121\project_4_testing\project_4_testing\project_4_testing.cpp(645): warning C4305: 'return': truncation from 'int' to 'bool'
+c:\users\mason\documents\github\personal_projects\cs_121\project_4_testing\project_4_testing\project_4_testing.cpp(649): warning C4305: 'return': truncation from 'int' to 'bool'
+c:\users\mason\documents\github\personal_projects\cs_121\project_4_testing\project_4_testing\project_4_testing.cpp(653): warning C4305: 'return': truncation from 'int' to 'bool'
   Project_4_Testing.vcxproj -> C:\Users\Mason\Documents\GitHub\Personal_Projects\CS_121\Project_4_Testing\Debug\Project_4_Testing.exe
