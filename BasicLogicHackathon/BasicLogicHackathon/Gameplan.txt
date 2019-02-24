@@ -1,0 +1,3 @@
+23 spaces
+6 sided die, but 5 skips turn, 6 go back one
+7 different "walks"

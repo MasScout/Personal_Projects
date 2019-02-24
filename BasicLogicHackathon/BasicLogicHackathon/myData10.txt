@@ -1,0 +1,155 @@
+Correct! After translation of the protein, the long chain of amino acids is cleaved into two shorter segments. One of these segments forms ghrelin and the other forms obestatin.
+Correct! Having the cell membranes connected via connexins ensures that the signal for contraction is rapidly transmitted across a large number of cells at the same time.
+Correct! Even in the womb, certain environmental exposures can have a profound impact on developmental pathways. These factors include alcohol, certain medications, and some maternal diseases. Collectively, these influences are known as teratogens. 
+Correct! The first documented surgeries to remove cancer were performed somewhere around 1600 BC by the ancient Egyptians to remove tumors of the breast.
+Correct! In non-bacterial organisms, the product of transcription is a nucleic acid molecule called mRNA or messenger RNA.
+Correct! Being more sedentary increases your risk for Type 2 diabetes. Combined with a poor diet, the body may not be able to compensate for the high levels of sugar in the blood.
+Correct! Flourescent in situ hybridization (FISH) uses flourescent probes that bind to specific regions of DNA and determine whether the region is present or deleted. 
+Correct! The golgi body is involved in the modification, packaging and distribution of proteins. 
+Correct! Microtubles are a major component of the cytoskelton which provides support and structure to the cell.
+Correct! Typically, individuals will have 26 or fewer of these trinucleotide repeats. Having 36 or greater results in Huntinton's Disease.
+Correct! Although yeast are single-celled organisms, the structures found inside their cell and the genes required for their function are very similar to those in human cells.
+Correct! The overproduction of the protein would cause bones to be remodeled more frequently making them weak and brittle.
+Correct! In order to span the lipid bilayer, the protein must have both hydrophilic (water loving) and hydrophobic (water fearing) structures.
+Correct! Proteins (also called polypeptides) are made of long strands of amino acids. The sequence of amino acids determines the protein's primary structure.
+Correct! Transcription factors have the ability to bind DNA either enhancing or repressing the process of transcription.
+Correct! Genomic variants can be used to modify a person's calculated risk for common diseases.  Variants can also provide important information about drug dosing and risk for adverse drug reactions.  
+Correct! Variable expressivity is the term used to describe differences in phenotype between individuals with the same genetic condition.
+Correct! Although telomeres do not contain genes, they play an important role in protecting chromosome structure. 
+Correct! A screening test does not provide a definitive diagnosis, but rather helps determine a subset of patients that should be offered further testing. 
+Correct! The number of CGG repeats in the FMR1 gene only expand when inherited from the mother.
+Correct! Pedigrees showing autosomal dominant inheritance are characterized by affected individuals in multiple generations.
+Correct! 5p- deletions are typically large enough to be visualized through routine karyotyping analysis. 
+Correct! The centromeres do not replicate until just before the sister chromatids separate during anaphase of mitosis or anaphase 2 of meiosis.
+Correct! A lysosome is a sac-like structure that is responsible for the removal of cellular debris.
+Correct! The development of antibodies against specific disease causing pathogens is a key part of the body's adaptive immune system.
+Correct! All of these are factors associated with an increased risk for trisomy.  Research has shown that reduced levels of recombination during meiosis is associated with a higher likelihood of nondisjunction and trisomies. 
+Correct! Reducing the effect of rejection by testing for MHC matching is routine for those receiving organ or bone marrow transplants.
+Correct! Type 1 diabetes is responsive to insulin therapy.  Type 2 diabetes is actually less common in Caucasians than in African Americans and Native Americans, and type 2 diabetes is more common in females.
+Correct! The LCT gene is one example of a highly conserved sequence of DNA across many different species. 
+Correct! At the end of mitosis, the nuclear membranes reform and the cell membranes pinch together to form two new cells.
+Correct! The golgi body is responsible for modification and packaging of proteins. One important aspect of this is to combine smaller proteins into their larger functional molecule.
+Correct! Amniocentesis is a procedure performed during pregnancy to provide genetic information about the developing child.  Unlike screening tests, amniocentesis provides a definitive diagnosis.
+Correct! Most cases of ALS are sporadic (not inherited) and caused by multiple genetic and environmental factors.
+Correct! Men inherit their X chromosome from their mother and their Y chromosome from their father. Since this gene region is found on the X chromosome, it can only be passed down to sons from their mothers.
+Correct! Having the SRY region on an X chromosome results in male development.  This is the explanation for some cases of men who have two X chromosomes. 
+Correct! Heterogeneity describes the phenomenon of a single phenotype that can be caused by a mutation in one of several genes.
+Correct! The chromosome translocation that causes CML is typically found only in cancer cells within the blood.  It does not occur in the germline (sex cells) and therefore is not inherited. 
+Correct! One promising avenue for treatment of Alzheimer's disease to to produce a vaccine that helps reduce the number of amyloid plaques deposited.
+Correct! In the past, pig insulin was used, but genetic engineering has made it possible to collect human insulin from bacterial cells in a laboratory.
+Correct! NOD2 is part of the system that helps distinguish the normal flora from potentially harmful bacteria in the intestines.
+Correct! The error typically occurs during anaphase I or anaphase II.  If chromosomes do not separate properly during meiosis, egg or sperm cells are produced with too few or too many chromosomes.  This type of meiotic error is called nondisjunction.
+Correct! Most genes code for a protein, however a few genes have a RNA product.
+Correct! A conformational change in the active site alters the shape of the receptor and can affect its ability to bind its substrate.
+Correct! The FDA has approved a therapy option for some patients with Parkinson's disease which inserts electrodes deep into the brain that send electrical impulses counteracting the signals that cause symptoms.
+Correct! Anabolism is the process of building or combining molecules. 
+Correct! The rate at which the DNA is transcribed into mRNA provides one level of gene expression control.
+Correct! George Beadle and Edward Tatum proposed in 1941 that one gene coded for one enzyme. Although ground-breaking at the time, we now know that one gene can code for many different proteins.
+Correct! Some scholars believe the Edgar Allen Poe suffered from bipolar disorder and had recurring manic episodes.
+Correct! Charles Darwin published The Origin of Species in 1859 and six years later, Gregor Mendel published his work on pea plant trait inheritance.
+Prion disease is caused by exposure to an abnormally folded prion protein.  This exposure can occur due to inherited mutations in PRNP or by eating tissue from animals affected with a prion disease.
+Correct! The amyloid beta precursor protein spans the cellular membrane, making it a transmembrane protein. 
+Correct! Only one-tenth of one percent of the human genome is different between individuals. It is this variation that helps explain the differences in traits and disease susceptibility among the human population.
+Correct! Mitochondria provide the energy cells need to function. This energy is produced in the form of ATP.
+Correct! Mitosis produces 2 genetically identical cells. Some of the most rapidly dividing cells of the body are found in the skin.
+Correct! Throughout evolutionary time, many essential biochemical pathways have been conserved, even among diverse species.
+Correct! The meiotic error that occurs results in an extra Y chromosome.  This extra chromosome must have come from the father since only males have Y chromosomes.
+Correct! Pleiotropy describes the phenomenon of a single gene influencing multiple phenotypes. 
+Correct! The goal of the Human Genome Project was to determine the human DNA code sequence.  
+Correct! A parent with HD has a 50% chance of passing down the dominant version of the gene to his or her child. Not all children will inherit this version, but some will.
+Correct! As the nucleus houses the DNA of the cell, it is highly restrictive on what goes in and out.
+Correct! Although influenced by the amino acid sequence and basic secondary structures like alpha helices, it is the complex 3D structure that allows a protein to bind DNA.
+Correct! GWAS looks at anywhere from 500,000 to 2 million letters of the DNA code. Whole genome sequencing in humans looks at all 3 billion letters.
+Correct! The golgi body is responsible for modification and packaging of proteins. This requires a large number of chaperone proteins.
+Correct! There are a number of molecular pathways designed to check DNA before cell division, after cell division, before DNA replication, and after DNA replication. If damage is not repairable, the cell will trigger apoptosis.
+Correct! Recombination describes many different ways in which genetic diversity can be accomplished. Broadly, it includes processes like crossing-over, transposition, and Mendel's laws of Independent assortment and Segregation.
+Each son has a 1/2 chance of inheriting PKD1.  The chance that both sons will be affected can be determined by multiplying together each child's risk. 1/2 x 1/2 = 1/4
+Correct! Unlike human cells, viruses are surrounded by a hard, protein shell that aids in their survival and ability to infect cells.
+Correct! Although some genes share a common promoter, all genes need some type of promoter sequence in order to be transcribed.
+Correct! Risk for type 2 diabetes and obesity is influenced by a complex interaction of many genetic and environmental factors.
+Correct! Although influenced by the amino acid sequence and basic secondary structures like alpha helices, it is the complex 3D structure that allows a protein to bind DNA.
+Correct! Environmental stresses like temperature do not typically alter the DNA sequence. Instead, these stresses influence the regulation of genes by proteins such as HSF1.
+Correct! Empiric estimates are based on observed frequency of disease in actual families.
+Correct! Genes found close to one another on the same chromosome are often inherited together.  Recombination occurs infrequently between two linked genes. 
+Correct! The process of catabolism describes the breaking apart of a molecule or breaking off a piece of a molecule.
+Correct! Active transport is a process that requires energy, such as ATP, to proceed.
+Correct! Genotyping involves determining the specific letters of the DNA code a person has inherited at thousands of specific points in the genome.
+Correct! The X-inactivation pattern is set during early embryonic development and is a random process that occurs in each cell.  As these embryonic cells grow and divide, the X-inactivation pattern is retained throughout the individual's life. 
+Correct! Antibiotics are only effective against bacterial infections.
+Correct! Researchers use these characteristics as clues that a common set of characteristics is genetically inherited often before DNA analysis is done.
+Correct! When two simple sugar molecules are joined together, it is referred to as a disaccharide. In this case the common name for the disaccharide is lactose.
+Correct! Cytosine and guanine bind together, and make up a total of 40 of the 100 nucleotides.  Thymine and adenine bind together for the remaining 60 nucleotides, so there must be 30 of each. 
+Correct! Cells within an individual contain the same DNA sequence regardless of their location or function.
+Correct! One amino acid is coded for by one codon. A codon is a sequence of three three nucleotides.
+Correct! Enamelin is produced throughout tooth growth and development regardless of age.
+Correct! The immune system recognizes cells by proteins found on the cell surface called recognition proteins.
+Correct! Myosin and actin create the primary protein structure involved in skeletal muscle contraction.
+Correct! The myosin and actin proteins are highly organized in both cardiac and skeletal muscle cells. This organization creates a banding pattern known as striations.
+Correct! The individual in question's grandfather has Marfan syndrome.  Therefore her father has a 1/2 chance of being affected.  If her father is affected, she has a 1/2 chance of inheriting the condition from him.  1/2 x 1/2 = 1/4
+Correct! Gel electrophoresis is a laboratory technique used to separate fragments of DNA by their size. 
+Correct! DNA is wound around an octomer complex of histone proteins. In a human cell, DNA would be about 6 feet long if no packaging were to occur.
+Correct! The RNA sequence is read in sets of three, called codons.  The order of nucleotides in the codon determine which amino acid is added to the growing polypeptide chain (protein).
+Correct! Although all 2.4 million bases are not used to create the dystrophin protein, each amino acid would be coded for by 3 nucleotides. 2.4 million divided by 3 = 800,000 amino acids
+Correct! Loss of this gene, and a reduced amount of SHOX protein, is thought to play a role in why females who have only one X chromosome are shorter than average.
+Correct! Some bacteria use a long whip like structure called a flagellum to move through their environment.
+Correct! Deleting a region of the chromosome deletes all of the genes found in that area of the chromosome. It is the loss of these genes that causes the symptoms associated with the deletion syndrome. 
+Correct! Schwann cells wrap around the axon of motor neurons forming a protective casing.
+Correct! Since tasting is dominant, neither parent would have the allele that allows tasting and therefore would not pass it down to their children.
+Correct! On April 25, 1953, the Watson and Crick paper describing the double helix structure of DNA was published in the journal Nature.
+Correct! Drug metabolism impacts how a drug is broken down and used in the body. Genetic variants can impact the rate at which this occurs and in some cases can be used to make drug dosing decisions.
+Correct! Independent assortment and segregation lead to genetically diverse gametes through the process of meiosis.
+Correct! Epigenetics describes changes in a gene's expression caused by factors other than the DNA sequence itself.
+Correct! The treatment for Pompe disease is an enzyme replacement therapy.  The search for this treatment was highlighted in the 2010 movie, Extraordinary Measures. 
+Correct! Cholesterol is a key molecule found in the cell membrane and provides structure to a cell.
+Correct! Free radicals are unstable molecules with highly reactive, unpaired electrons and can cause damage to cells.
+Correct! Although oogenesis begins in individuals with turner syndrome, it is often not completed due to ovarian failure. 
+Correct! Children of an individual affected with a recessive condition and a heterozygote have an equal chance of being either affected with the condition or a carrier. 
+Correct! Exons provide the coding regions for the mRNA transcript.
+Correct! Telomeres protect the ends of chromosomes and are maintained by TERT.
+Correct! Semi-conservative replication splits the original DNA molecule into two strands.  Each strand is used as a template for a new molecule of DNA.
+Correct! Cytosine (C) always binds to guanine (G) and thymine (T) always binds to adenine (A) in DNA sequences. 
+Correct! Balanced chromosome rearrangements may change the location of DNA sequences, but there is no net gain or loss of information.
+Correct! The addition of methyl groups, typically to cystines that are part of CpG islands, causes the DNA to be inactivated.
+Correct! The treatment for PKU involves careful dietary choices. If treatment is begun soon after birth, many of the severe symptoms can be avoided. 
+Correct! Gametes, like sperm and egg cells, contain half the genetic information of other body cells.
+Correct! Autosomal dominant early-onset Alzheimer's disease is caused by mutations in one of several genes including PSEN1.
+Correct! The ribosome is a complex structure made up of proteins and RNA.
+Correct! In 1952, the Hershey-Chase experiment confirmed that DNA is the genetic material inside cells. Until this point, it was widely accepted that proteins were the genetic material.
+Correct! In conditions with X-liked recessive inheritance, there are typically only affected males and no father to son transmission.  Females with a mutation are unaffected carriers.
+Correct! Although the disease is transmitted by mosquito bites, the underlying cause of the disease is a protozoan know as Plasmodium.
+Correct! A syndrome is a collection of traits that occur together and have a known underlying cause.  The term syndrome does not indicate severity. In addition, syndromes are not necessarily caused by chromosome abnormalities or single gene mutations.
+Correct! Viruses need the cellular machinery to replicate, transcribe and translate their genetic material.
+Correct! Albumin is sometimes referred to as a molecular taxi because of the large number of other molecules it carriers through the blood.
+Correct! However, not all homozygous recessive individuals will not develop symptoms related to hemochromatosis. This is due to a phenomenon known as incomplete penetrance.
+Correct! Red blood cells not only lack a nucleus but other cellular organelles like the mitochondria and endoplasmic reticulum.
+Correct! Louis is the only individual that could have contributed a B allele to Maria's son. 
+Correct! Most cases of sickle cell anemia are due to a single nucleotide base substitution that alters the amino acid sequence.
+Correct! Skin tone is influenced by at least four genes and the amount of daily sunlight exposure.
+Correct! There is a 1/2 chance that the child will be a boy and and 1/2 chance that he will have von Willebrand's disease. Multiplying this together results in a total probability of 1/4.
+Correct! In 1951, Barbara McClintock discovered "transposable elements" in maize. These were dubbed "jumping genes" and later transposons. McClintock received a Nobel Prize in 1983 for the discovery.
+Correct! The cell membrane allows some, but not all, molecules and ions to freely pass through it.
+Correct! Carriers for alpha thalassemia are less likely to develop malaria.  This advantage helps explain why the prevalence of HBA1 and HBA2 mutations is higher in geographic areas where malaria is common.
+Correct! Hair color is controlled by a combination of multiple genetic and environmental factors, one of which is MC1R.
+Correct! Each of John's daughters has inherited John's one X chromosome, which contains a F8 gene mutation.  Females with one F8 gene mutation are carriers for hemophilia A but generally do not experience disease symptoms.   
+Correct! The mother is homozygous recessive and the father is heterozygous giving each child a 1/2 chance of being affected with cystic fibrosis.
+Correct! Arrhythmias are often detected in people with Long QT syndrome but may not have serious consequences.
+Correct! In 1990, Ashanti was the first person in history to receive gene therapy as a treatment for a disease. 
+Correct! Since there is no protein product of these genes, they do not undergo translation. They do not fit the classic definition of a gene as it states a gene codes for a polypeptide (protein precursor).
+Correct! Vaccines work by causing the body to create antibodies to the particular virus.  After only eleven trials with dogs, Pasteur used his new rabies vaccine on a young boy who had been bitten by a rabid dog and was successful in preventing the virus.
+Correct! The lysosome is responsible for breaking down waste products within cells. Hexosaminidase A is a lysosomal enzyme.
+Correct! Government guidelines suggest that women of childbearing age consume at least 0.4 mg of vitamin B9 (folic acid) each day.
+Correct! Tumor suppressor genes code for proteins that are part of a complex repair mechanism that checks DNA replication for accuracy.
+Correct! Loss of cell cycle control typically results in an uncontrolled accumulation of cells, also known as a tumor. 
+Correct! Gene regulation plays an important role in maintaining healthy cell growth.
+Correct! Mitosis conserves the number of chromosomes and doubles the number of cells during each round of division.
+Correct! Living between 460–370 B.C., Hippocrates used the words carcinos and carcinoma to describe the appearance of cancers of the skin.
+Correct! The autonomic nervous system classifies those nerves in the peripheral nervous system that transmit signals for involuntary functions.
+Correct! A number of labs preform KRAS testing to determine if one of the EGFR-inhibiting drugs will be effective.
+Correct! DNA replication occurs during the S (synthesis) phase of the cell cycle.
+Correct! Sunlight is a common cause of DNA mutations.  Significant exposure to sunlight increases the risk of basal cell carcinoma, a common skin cancer, to over 50% in light skinned populations.
+Correct! ERBB2 amplification is a change that occurs in a particular cancer cell line.  
+Correct! Families with inherited cancer syndromes often have younger and more frequent cancer occurrences than you would expect. 
+Correct! It is only possible for a genetic change to be passed on if the change occurs in the germ line (egg and sperm cells).
+Correct! 95% of patients with CML have the 9;22 translocation, also known as the "Philadelphia chromosome."
+Correct! Men and women have an equal chance of inheriting, or passing on, a BRCA2 mutation.  Men can develop breast cancer, and having a BRCA2 mutation increases this risk.
+Correct! E4 alleles increase risk for Alzheimer's disease, but are not necessary nor sufficient for disease development. 

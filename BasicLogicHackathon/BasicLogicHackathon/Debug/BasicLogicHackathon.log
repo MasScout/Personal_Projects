@@ -1,0 +1,4 @@
+﻿  BasicLogicHackathon.cpp
+c:\users\mason\source\repos\basiclogichackathon\basiclogichackathon\basiclogichackathon.cpp(5): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\mason\source\repos\basiclogichackathon\basiclogichackathon\basiclogichackathon.cpp(5): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  BasicLogicHackathon.vcxproj -> C:\Users\Mason\source\repos\BasicLogicHackathon\Debug\BasicLogicHackathon.exe

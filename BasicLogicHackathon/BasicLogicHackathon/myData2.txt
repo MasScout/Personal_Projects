@@ -1,0 +1,155 @@
+ghrelin
+gap junction protein, alpha 10
+sonic hedgehog
+kruppel-like factor 4
+excision repair cross-complementing rodent repair deficiency
+potassium inwardly-rectifying channel, subfamily J, member 11
+22q deletion syndrome
+sortilin 1
+serologically defined colon cancer antigen 8
+huntingtin
+3-hydroxy-3-methylglutaryl-CoA reductase
+sequestosome 1
+polycystic kidney and hepatic disease 1
+torsin A
+paired box 9
+vitamin K epoxide reductase complex, subunit 1
+neurofibromin 1
+Chromosome 19
+Down syndrome
+fragile X mental retardation 1
+fibroblast growth factor receptor 3
+cri-du-chat syndrome
+establishment of cohesion 1, homolog 2
+phytanoyl-CoA 2-hydroxylase
+immunoglobulin lambda locus
+Trisomy X
+major histocompatibility complex
+transcription factor 7-like 2
+lactase
+cyclin-dependent kinase 1
+ubiquitin C
+Edwards syndrome
+superoxide dismutase 1
+opsin 1 (cone pigments), long wave sensitive
+sex determining region Y
+rhodopsin
+c-abl oncogene 1
+sirtuin 1
+insulin
+nucleotide-binding oligomerization domain containing 2
+Klinefelter syndrome
+disrupted in schizophrenia
+oxytocin receptor
+parkinson protein 2
+dopa decarboxylase
+forkhead box P2
+neuregulin
+calcium channel, voltage-dependent, L type, alpha 1C subunit
+solute carrier family 6, member 4
+prion protein
+amyloid beta (A4) precursor protein
+catechol-O-methyltransferase
+monoamine oxidase A
+epidermal growth factor
+paired-like homeodomain 1
+XYY syndrome
+lamina A
+proopiomelanocortin
+ubiquitin conjugating enzyme E2K
+nuclear receptor subfamily 3, group C, member 1
+serum response factor
+breast cancer susceptibility region
+heat shock 27kDa protein 1
+cyclin dependent kinase inhibitor 2A
+T-cell receptor alpha
+polycystic kidney disease 1
+intercellular adhesion molecule 1
+cystatin B
+peroxisome proliferator-activated receptor gamma
+GLI zinc finger 3
+heat shock transcription factor 1
+apolipoprotein A-V
+aldehyde dehydrogenase 2
+serpin peptidase inhibitor, clade A
+ATP-binding cassette, sub-family C, member 11
+SH3 and multiple ankyrin repeat domains 3
+X (inactive) specific transcript
+immunoglobulin kappa locus
+homogentisate 1,2-dioxygenase
+galactose-1-phosphate uridylytransferase
+cytochrome P450, family 2, subfamily D, polypeptide 6
+alpha 1 actin
+titin
+enamelin
+major histocompatibility complex, class II, DQ beta1
+actinin, alpha 3
+cardiac muscle myosin, alpha and beta heavy chains
+fibrillin 1
+tumor necrosis factor receptor superfamily, member 11a
+dystrophia myotonica protein kinase
+collagen, type IX, alpha 3
+dystrophin
+short stature homeobox
+complement factor H
+Wolf-Hirschhorn syndrome
+survival motor neuron 1
+taste receptor, type 2, member 38
+eyes absent homolog 1
+cytochrome P450, family 2, subfamily C, polypeptide 9
+gap junction protein beta 2 and beta 6
+Prader-Willi & Angelman syndrome region
+glycosidase, alpha; acid
+low density lipoprotein receptor
+glutathione synthetase
+Turner syndrome
+ATP-binding cassette, sub-family A, member 4
+forkhead box L2
+telomerase reverse transcriptase
+pleiomorphic adenoma gene-like 1
+leptin
+pericentric inversion, chromosome 9
+cyclin-dependent kinase inhibitor 1c
+phenylalanine hydroxylase
+Patau syndrome
+presenillin1
+ribosomal protein S19
+potassium inwardly rectifying channel, subfamily J, member 6
+coagulation factor IX
+duffy blood group antigen
+paired box 3
+chemokine (C-C motif) receptor 5
+albumin
+hemochromatosis
+ankyrin 1
+ABO blood group
+hemoglobin, beta
+tyrosinase
+von Willebrand factor
+oculocutaneous albinism II
+solute carrier family 24, member 5
+hemoglobin alpha 1 and 2
+melanocortin 1 receptor
+coagulation factor VIII, procoagulant component
+cystic fibrosis transmembrane conductance regulator
+potassium voltage-gated channel, KQT-like subfamily, member 1
+adenosine deaminase
+microRNA cluster
+immunoglobulin heavy locus
+hexosaminidase A
+methylenetetrahydrofolate reductase 
+mutS homolog 2
+polybromo 1
+adenomatous polyposis coli
+myelocytomatosis viral oncogene homolog
+patched 1
+ret proto-oncogene
+kirsten rat sarcoma viral oncogene homolog
+retinoblastoma 1
+tumor protein 53
+erythroblastic leukemia viral oncogene homolog 2
+breast cancer 1, early onset
+SMAD family member 4
+breakpoint cluster region
+breast cancer 2, early onset
+apolipoprotein E
