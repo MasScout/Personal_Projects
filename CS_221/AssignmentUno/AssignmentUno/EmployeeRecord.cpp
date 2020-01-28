@@ -1,8 +1,10 @@
+#include "stdafx.h"
 #include "EmployeeRecord.h"
 
 using namespace std;
 
 EmployeeRecord::EmployeeRecord() {
+	cout << "Default Constructor" << endl;
 	m_iEmployeeID = 0;
 	strcpy(m_sLastName, "");
 	strcpy(m_sFirstName, "");
@@ -11,6 +13,7 @@ EmployeeRecord::EmployeeRecord() {
 }
 
 EmployeeRecord::EmployeeRecord(int ID, char *fName, char *lName, int dept, double sal) {
+	cout << "Constructor" << endl;
 	m_iEmployeeID = ID;
 	strcpy(m_sLastName, lName);
 	strcpy(m_sFirstName, fName);
@@ -18,7 +21,9 @@ EmployeeRecord::EmployeeRecord(int ID, char *fName, char *lName, int dept, doubl
 	m_dSalary = sal;
 }
 
-//~EmployeeRecord::EmployeeRecord() {}
+EmployeeRecord::~EmployeeRecord() {
+	cout << "Destructor" << endl;
+}
 
 int EmployeeRecord::getID() {
 	cout << "getID" << endl;
