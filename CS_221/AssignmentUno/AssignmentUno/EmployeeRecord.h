@@ -1,7 +1,16 @@
+//Mason Barrow
+//Programming Assignment One
+//CS 221-01
+//02/04/2020
+//Employee Record Header File: EmployeeRecord Class Declaration
+
 #pragma once
 
 #include <iostream>
 
+//#define TESTING
+
+//Define Class
 class EmployeeRecord {
 public:
 	EmployeeRecord();
