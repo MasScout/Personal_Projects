@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Project4.cpp
+c:\users\mason\documents\github\personal_projects\cs_121\project4\project4\project4.cpp(208): warning C4551: function call missing argument list
+  Generating code
+  All 155 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project4.vcxproj -> C:\Users\Mason\Documents\GitHub\Personal_Projects\CS_121\Project4\Release\Project4.exe
