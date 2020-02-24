@@ -19,6 +19,8 @@ EmployeeRecord::EmployeeRecord() {
 	strcpy(m_sFirstName, "");
 	m_iDeptID = 0;
 	m_dSalary = 0.0;
+
+	m_pCustomerList = new CustomerList;
 }
 
 //Brief: Parameterized Constructor
@@ -31,6 +33,8 @@ EmployeeRecord::EmployeeRecord(int ID, char *fName, char *lName, int dept, doubl
 	strcpy(m_sFirstName, fName);
 	m_iDeptID = dept;
 	m_dSalary = sal;
+
+	m_pCustomerList = new CustomerList;
 }
 
 //Brief: Destructor
@@ -38,6 +42,7 @@ EmployeeRecord::~EmployeeRecord() {
 #ifdef TESTING
 	cout << "Destructor" << endl;
 #endif
+	delete m_pCustomerList;
 }
 
 //Brief: Function to return employee ID
@@ -75,11 +80,11 @@ void EmployeeRecord::setName(char *fName, char *lName) {
 }
 
 //Brief: Function to set function argument variable as m_iDeptID
-void EmployeeRecord::getDept(int& d) {
+int EmployeeRecord::getDept() {
 #ifdef TESTING
 	cout << "getDept" << endl;
 #endif
-	d = m_iDeptID;
+	return m_iDeptID;
 }
 
 //Brief: Function to set m_iDeptID as function argument variable
@@ -91,11 +96,11 @@ void EmployeeRecord::setDept(int d) {
 }
 
 //Brief: Function to set function argument variable as m_dSalary
-void EmployeeRecord::getSalary(double *sal) {
+double EmployeeRecord::getSalary() {
 #ifdef TESTING
 	cout << "getSalary" << endl;
 #endif
-	sal = &m_dSalary;
+	return m_dSalary;
 }
 
 //Brief: Function to set m_dSalary as function argument variable
@@ -115,4 +120,8 @@ void EmployeeRecord::printRecord() {
 	cout << "Employee Name: " << m_sLastName << ", " << m_sFirstName << endl;
 	cout << "Employee Dept: " << m_iDeptID << endl;
 	cout << "Employee Salary: " << m_dSalary << endl;
+}
+
+CustomerList EmployeeRecord::*getCustomerList() {
+	return m_pCustomerList;
 }

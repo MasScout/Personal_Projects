@@ -1,8 +1,8 @@
-/*--------------------------------------------------------------------------
-   Store.h
-   Class definition of a Store object for use in programming assignment 2.
-   Author: Dr. Rick Coleman
-*/--------------------------------------------------------------------------
+//--------------------------------------------------------------------------
+//   Store.h
+//   Class definition of a Store object for use in programming assignment 2.
+//   Author: Dr. Rick Coleman
+//--------------------------------------------------------------------------
 #pragma once;
 
 #include <string.h>

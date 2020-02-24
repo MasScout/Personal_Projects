@@ -7,6 +7,7 @@
 #pragma once
 
 #include <iostream>
+#include "CustomerList.h"
 
 //#define TESTING
 
@@ -20,11 +21,13 @@ public:
 	void setID(int ID);
 	void getName(char *fName, char *lName);
 	void setName(char *fName, char *lName);
-	void getDept(int& d);
+	int getDept();
 	void setDept(int d);
-	void getSalary(double *sal);
+	double getSalary();
 	void setSalary(double sal);
 	void printRecord();
+
+	CustomerList *getCustomerList();
 private:
 	int m_iEmployeeID;
 	char m_sLastName[32];
@@ -32,5 +35,5 @@ private:
 	int m_iDeptID;
 	double m_dSalary;
 
-
+	CustomerList *m_pCustomerList;
 };
