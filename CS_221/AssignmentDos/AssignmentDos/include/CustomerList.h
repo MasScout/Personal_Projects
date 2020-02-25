@@ -1,6 +1,7 @@
 #pragma once
 
 #include "Store.h"
+#include "stdafx.h"
 
 class CustomerList
 {

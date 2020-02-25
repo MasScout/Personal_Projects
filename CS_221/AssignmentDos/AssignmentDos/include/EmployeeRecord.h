@@ -6,10 +6,8 @@
 
 #pragma once
 
-#include <iostream>
+#include "stdafx.h"
 #include "CustomerList.h"
-
-//#define TESTING
 
 //Define Class
 class EmployeeRecord {

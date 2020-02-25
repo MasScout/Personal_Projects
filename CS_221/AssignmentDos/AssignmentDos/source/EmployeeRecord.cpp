@@ -4,7 +4,7 @@
 //02/04/2020
 //Employee Record Source File: EmployeeRecord Class Definition
 
-#include "pch.h"
+#include "stdafx.h"
 #include "EmployeeRecord.h"
 
 using namespace std;
@@ -122,6 +122,6 @@ void EmployeeRecord::printRecord() {
 	cout << "Employee Salary: " << m_dSalary << endl;
 }
 
-CustomerList EmployeeRecord::*getCustomerList() {
+CustomerList *EmployeeRecord::getCustomerList() {
 	return m_pCustomerList;
 }

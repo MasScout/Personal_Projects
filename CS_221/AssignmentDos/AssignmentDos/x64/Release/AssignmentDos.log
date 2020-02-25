@@ -1,1 +1,5 @@
-﻿cl : Command line error D8021: invalid numeric argument '/wd_CRT_SECURE_NO_WARNINGS'
+﻿  Store.cpp
+  Generating code
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AssignmentDos.vcxproj -> C:\Users\Mason\Documents\GitHub\Personal_Projects\CS_221\AssignmentDos\x64\Release\AssignmentDos.exe

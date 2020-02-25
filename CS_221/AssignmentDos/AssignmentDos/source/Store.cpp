@@ -3,7 +3,7 @@
 // Class implementation of a Store object for use in programming assignment 2.
 // Author: Dr. Rick Coleman
 //--------------------------------------------------------------------------
-#include "pch.h"
+#include "stdafx.h"
 #include "Store.h"
 #include <iomanip>
 
