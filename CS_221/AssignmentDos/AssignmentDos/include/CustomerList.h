@@ -1,5 +1,10 @@
 #pragma once
 
+struct StoreNumber {
+	int storeID;
+	
+};
+
 #include "Store.h"
 #include "stdafx.h"
 
@@ -14,6 +19,6 @@ public:
 	bool updateStore(int ID, char *name, char *addr, char *city, char *st, char *zip);
 	void printStoresInfo();
 private:
-	Store * m_pHead;
+	Store *m_pHead;
 };
 
