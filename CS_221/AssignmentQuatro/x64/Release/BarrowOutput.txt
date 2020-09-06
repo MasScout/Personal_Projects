@@ -1,0 +1,45 @@
+Testing hash function 0 using double hash 0.
+Total collisions = 15.
+-||--|-|-||||||-|----|--|-||--|--||--|||-|------|||-|-----|-||||--|-|-|-|-|-|||-|||-|||-|-|--|-|--|-
+Finished run hashNum=0  dHashNum=0
+
+Testing hash function 0 using double hash 1.
+Total collisions = 8.
+-||--||--||||||-|----|--|-|---||-||--||--|------|||-|--|--|-|||---|||-|||||||||-|-|-|||-|-|---|-----
+Finished run hashNum=0  dHashNum=1
+
+Testing hash function 0 using double hash 2.
+Total collisions = 21.
+-||--|--|||||||-|----|--|-|---||-||--||--|------|||-|---|-|-|||-|-|-|||-|||-|||||-|-|||-|-|-------|-
+Finished run hashNum=0  dHashNum=2
+
+Testing hash function 1 using double hash 0.
+Total collisions = 30.
+-|||||-|-|----||-|-|--||--|-|||-----|----|-|-|||-|-|-||--|||-|-|-|------||--|||-|-|---||-||--|||-|||
+Finished run hashNum=1  dHashNum=0
+
+Testing hash function 1 using double hash 1.
+Total collisions = 36.
+-|||-|||||-|--||-|-|--------------------||-|-|||-|-|||-|-|||-|||-|-------||-----||||-||||||-||||-|||
+Finished run hashNum=1  dHashNum=1
+
+Testing hash function 1 using double hash 2.
+Total collisions = 80.
+||||-|-|||-|-|||-|-|-----------------|-|-|-|-|||-|-|||-|-|||-|-|-|-------|--------|||-||||||||||||||
+Finished run hashNum=1  dHashNum=2
+
+Testing hash function 2 using double hash 0.
+Total collisions = 58.
+|-||--|--|||||-|----||||-|-|-----||-|--|--|--||-||--|-----|-|||----|--||||-|||-|-|-|-|||-|-|---||||-
+Finished run hashNum=2  dHashNum=0
+
+Testing hash function 2 using double hash 1.
+Total collisions = 138.
+------|-|--|-||--|--|--|---||---|-||-|-|||||--|-||--|||||||||||||-|||||||-|-|----|--|---|--|---|--|-
+Finished run hashNum=2  dHashNum=1
+
+Testing hash function 2 using double hash 2.
+Total collisions = 212.
+--------|--|--|||||||--|------|-|-|-|-|-|-|||-|-|||||||||||||-|||||||||-|-|-|--------------|||||----
+Finished run hashNum=2  dHashNum=2
+
