@@ -27,7 +27,7 @@ int main()
 	cout << "Do you want All (A), Even (E), or Odd (O) values to be printed: ";
 	cin >> type;
 	while (tolower(type) != 'a' && tolower(type) != 'e' && tolower(type) != 'o') {
-		cout << "Eligible options are A, E, and O";
+		cout << "Eligible options are A, E, and O. Please try again: ";
 		cin >> type;
 	}
 
@@ -61,8 +61,17 @@ int main()
 		}
 	}
 
+	if (size(rowList) >= 20) {
+		cout << "Too many rows, must be less than 20. Please re-run the program." << endl;
+		return 0;
+	}
+
 	cout << endl << "How many additional columns do you want printed? ";
 	cin >> cols;
+	while (cols < 0 && cols > 5) {
+		cout << "Extra columns must be less than 5. Please try again: ";
+		cin >> cols;
+	}
 	cin.ignore(100, '\n');
 	vector<string> columnList(cols);
 	for (int i = 0; i < cols; i++) {
@@ -70,7 +79,7 @@ int main()
 		getline(cin, columnList[i]);
 	}
 
-	cout << endl << "Following is the table you requested." << endl;
+	cout << endl << "Following is the table you requested.\n" << endl;
 	cout << "n";
 	for (int i = 0; i < cols; i++) {
 		cout << "     " << columnList[i];
