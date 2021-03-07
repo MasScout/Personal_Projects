@@ -46,6 +46,7 @@ prompt:
 get_input:
 @*******************
 
+@ For Reading and printing an Integer
    ldr r0, =numInputPattern @ Setup to read in one number.
    ldr r1, =intInput        @ load r1 with the address of where the
                             @ input value will be stored. 
@@ -61,6 +62,29 @@ get_input:
 
    ldr r0, =strOutputNum
    bl  printf
+
+@ Ask the user to enter a character.
+ 
+   ldr r0, =strInputCharPrompt 	@ Put the address of my string into the first parameter
+   bl  printf              		@ Call the C printf to display input prompt. 
+
+@ For Reading and printing a Character
+   ldr r0, =charInputPattern	@ Setup to read in one number.
+   ldr r1, =charInput       	@ load r1 with the address of where the
+								@ input value will be stored. 
+   bl  scanf                	@ scan the keyboard.
+   cmp r0, #READERROR       	@ Check for a read error.
+   beq readerror            	@ If there was a read error go handle it. 
+   ldr r1, =charInput       	@ Have to reload r1 because it gets wiped out. 
+   ldr r1, [r1]             	@ Read the contents of charInput and store in r1 so that
+								@ it can be printed. 
+
+@ Print the input out as a character.
+@ r1 contains the value input to keyboard. 
+
+   ldr r0, =strOutputChar
+   bl  printf
+   
    b   myexit @ leave the code. 
 
 @***********
@@ -91,10 +115,19 @@ strInputPrompt: .asciz "Input the number: \n"
 .balign 4
 strOutputNum: .asciz "The number value is: %d \n"
 
+.balign 4
+strInputCharPrompt: .asciz "Input the character: \n"
+
+.balign 4
+strOutputChar: .asciz "The character value is: %c \n"
+
 @ Format pattern for scanf call.
 
 .balign 4
-numInputPattern: .asciz "%d"  @ integer format for read. 
+numInputPattern: .asciz "%d"  @ integer format for read.
+
+.balign 4
+charInputPattern: .asciz "%s"	@ character format for read.
 
 .balign 4
 strInputPattern: .asciz "%[^\n]" @ Used to clear the input buffer for invalid input. 
@@ -103,7 +136,10 @@ strInputPattern: .asciz "%[^\n]" @ Used to clear the input buffer for invalid in
 strInputError: .skip 100*4  @ User to clear the input buffer for invalid input. 
 
 .balign 4
-intInput: .word 0   @ Location used to store the user input. 
+intInput: .word 0   @ Location used to store the user int input. 
+
+.balign 4
+charInput: .word 0   @ Location used to store the user char input. 
 
 
 
